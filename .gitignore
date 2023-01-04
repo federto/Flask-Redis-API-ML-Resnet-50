@@ -1,7 +1,3 @@
-# Project files/folders
-uploads
-feedback
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
